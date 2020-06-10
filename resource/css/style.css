@@ -289,9 +289,53 @@ header{
   line-height: 150%;
 }
 
+/************************************************************/
+/* NEW SECTIONS CSS */
+/************************************************************/
+
+.companies{
+  text-align: center;
+}
+
+.companies .item img{
+  text-align: center;
+  height: 500px;
+}
 
 
-
+.people{
+  text-align: center;
+}
+.people .carousel-inner{
+  width: 70%;
+  margin: auto;
+}
+blockquote{
+  padding: 2%;
+  font-style: italic;
+  line-height: 145%;
+  position: relative;
+}
+blockquote span{
+  color: black;
+  font-size: 300%;
+  font-weight: bolder;
+}
+cite{
+  font-size: 90%;
+  margin-top: 25px;
+  display: block;
+  margin-top: 40px;
+}
+cite img{
+  height: 70px;
+  border-radius: 50%;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+/************************************************************/
+/* NEW SECTIONS CSS ENDS HERE */
+/************************************************************/
 /************************************************************/
 /**OUR PEOPLE SECTION**/
 /************************************************************/
