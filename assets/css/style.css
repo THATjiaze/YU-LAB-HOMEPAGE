@@ -713,6 +713,7 @@ section {
 .services .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
+  margin-top: 15px;
   font-size: 24px;
 }
 
@@ -726,6 +727,16 @@ section {
   margin-bottom: 0;
 }
 
+.services .icon-box:hover h4 a {
+  color: #cc1616;
+}
+
+.services .research-img {
+	height: 450px;
+	line-height: 450px;
+}
+
+/*
 .services .icon-box:hover {
   background: #cc1616;
   border-color: #cc1616;
@@ -744,9 +755,8 @@ section {
   background: #e82d2d;
 }
 
-.services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #fff;
-}
+
+*/
 
 /*--------------------------------------------------------------
 # Cta
